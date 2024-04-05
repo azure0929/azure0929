@@ -26,4 +26,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azure0929&layout=compact)](https://github.com/dmswl2030/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=buefy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=azure0929&show_icons=true&theme=buefy)
