@@ -10,9 +10,6 @@ Javascript를 이용한 인터랙티브 웹과 반응형 웹에 관심이 많고
 
 <br>
 
----
-<br>
-
 ### 🛠 Stacks 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -45,4 +42,3 @@ Javascript를 이용한 인터랙티브 웹과 반응형 웹에 관심이 많고
     </tr>
   </table>
 </div>
-
