@@ -2,7 +2,7 @@
 
 <br>
 
-👋&nbsp;안녕하세요, 웹 개발자 양준용입니다. <br>
+👋&nbsp;안녕하세요, 마크업 개발자 양준용입니다. <br>
 프로젝트 기획, 레이아웃 구성, 프론트 & 백엔드와의 협업 프로젝트를 진행하여 <br> 
 기획부터 개발까지의 이해도가 높습니다. <br>
 Javascript를 이용한 인터랙티브 웹과 반응형 웹에 관심이 많고, <br> 
@@ -33,7 +33,16 @@ Javascript를 이용한 인터랙티브 웹과 반응형 웹에 관심이 많고
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azure0929&layout=compact)](https://github.com/dmswl2030/github-readme-stats) 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=azure0929&show_icons=true&theme=buefy)
+<div align="center">
+  <table>
+    <tr>
+      <td align="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azure0929&hide=jupyter%20notebook&layout=compact&hide_border=true" style="width: 100%" />
+      </td>
+      <td align="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=azure0929&count_private=true&show_icons=true&theme=buefy&hide_border=true" style="width: 100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
