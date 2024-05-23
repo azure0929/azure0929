@@ -15,11 +15,4 @@
 
 <br>
 
-##  ✏️ Experience
-
-- `2023.03 ~ 2023.10` **패스트캠퍼스 - 핀테크 서비스 프론트엔드 개발자 양성 과정**
-- `2021.03 ~ 2021.08` **그린컴퓨터아카데미 - [디지털디자인] 반응형 웹디자인 & 웹퍼블리셔 디지털 실무 양성 과정**
-
-<br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azure0929&hide=jupyter%20notebook&layout=compact&hide_border=true" />
