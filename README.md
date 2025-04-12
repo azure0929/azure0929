@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm azure0929</h1>
+<h1>양준용 YANG JUN YONG</h1>
 <h3 align="center">UI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=React+%7C+Javascript;Frontend+Developer+%2B+Backend+Developer;Clean+Code+%7C+UX+First+Thinking;Always+learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=React+%7C+Javascript;Frontend+%26+Backend+Developer;Clean+Code+%7C+UX+First+Thinking;Always+learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ### ✨ About Me
