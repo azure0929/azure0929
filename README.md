@@ -39,5 +39,5 @@
 
 ### 📫 Contact
 
-- Email: [chary8028@naver.com](chary8028@naver.com)
+- Email: [yjy092911@gmail.com](yjy092911@gmail.com)
 - velog: [https://velog.io/@azure0929/posts](https://velog.io/@azure0929/posts)
