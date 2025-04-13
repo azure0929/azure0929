@@ -2,7 +2,7 @@
 <h3 align="center">UI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=React+%7C+Javascript;Frontend+%26+Backend+Developer;Clean+Code+%7C+UX+First+Thinking;Always+learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=React+%2C+Javascript;Frontend+%26+Backend+Developer;Clean+Code+%2C+UX+First+Thinking;Always+learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ### ✨ About Me
@@ -11,8 +11,8 @@
 - 그린컴퓨터아카데미 Web Design(UI/UX) & Web Publisher Practical Training Course 수료 | 2021.03 - 2021.08
 - 웹디자인기능사 취득 | 2021.09
 - 🧠 끊임없이 배움에 열정적인 개발자
-- 🎯 목표는 실무형 UI 개발자
-- 🌱 최신 트렌드와 기술에 민감하게 반응하고, 직접 적용하는 걸 즐깁니다.
+- 🎯 목표는 실무형 웹 개발자
+- 🌱 최신 트렌드와 기술에 민감하게 반응하고, 직접 적용하는 걸 좋아합니다.
 
 ---
 
