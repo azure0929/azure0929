@@ -1,5 +1,5 @@
 <h1>양준용 YANG JUN YONG</h1>
-<h3 align="center">UI Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=React+%2C+Javascript;Frontend+%26+Backend+Developer;Clean+Code+%2C+UX+First+Thinking;Always+learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
